@@ -33,6 +33,8 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY rootfs /
+COPY usr /
+
 
 # Add user and disable sudo password checking
 RUN useradd \
