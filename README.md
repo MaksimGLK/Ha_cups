@@ -1,4 +1,4 @@
-# homeassistant addon cups airprint MAXIM
+# homeassistant addon cups  MAXIM
 CUPS addon with working Avahi in reflector mode 
 
 Tested with Home Assistant version **2023.9**
